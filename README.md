@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+## About ME
+ Dedicated and results-driven DevOps Engineer with hands-on experience in building and managing CI/CD
+ pipelines, cloud infrastructure, and automation tools. Proficient in Docker, Kubernetes, AWS, Terraform, and
+ Python, with a strong foundation in system administration and security. Seeking to contribute my expertise in
+ optimizing deployment workflows, enhancing system reliability, and driving innovation in a collaborative,
+ fast-paced environment
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sabry-nabil) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCEyj7jFFKK3NLD2j8yTpckA) 
 
